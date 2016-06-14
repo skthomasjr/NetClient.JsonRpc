@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Repository.NET-JsonRpc</id>
+    <version>0.0.0</version>
+    <authors>Scott Keith Thomas, Jr.</authors>
+    <description>Respository.NET-JsonRpc is the JSON-RPC implementation of a Repository.NET repository.</description>
+    <tags>Repository.NET JSON-RPC</tags>
+    <iconUrl>https://raw.githubusercontent.com/skthomasjr/Repository.JsonRpc/master/Build/NuGet/Package.png</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/skthomasjr/Repository.JsonRpc/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/skthomasjr/Repository.NET-JsonRpc</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<dependencies>
+      <dependency id="Microsoft.Net.Http" version="1.0.0" />
+      <dependency id="Newtonsoft.Json" version="1.0.0" />
+      <dependency id="Repository.NET" version="1.0.0" />
+    </dependencies>
+  </metadata>
+</package>
