@@ -1,12 +1,12 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Repository.JsonRpc")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Repository.NET - JSON-RPC Repository")]
+[assembly: AssemblyDescription("A Respository.NET implementation supporting JSON-RPC.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Repository.JsonRpc")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("Scott Keith Thomas, Jr.")]
+[assembly: AssemblyProduct("Repository.NET - JSON-RPC Repository")]
+[assembly: AssemblyCopyright("Copyright © 2016 Scott Keith Thomas, Jr.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
