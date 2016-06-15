@@ -4,8 +4,8 @@
     <id>Repository.NET-JsonRpc</id>
     <version>0.0.0</version>
     <authors>Scott Keith Thomas, Jr.</authors>
-    <description>Respository.NET-JsonRpc is the JSON-RPC implementation of a Repository.NET repository.</description>
-    <tags>Repository.NET JSON-RPC</tags>
+    <description>A Respository.NET implementation supporting JSON-RPC.</description>
+    <tags>async asynchronous generic json json-rpc jsonrpc repository rpc</tags>
     <iconUrl>https://raw.githubusercontent.com/skthomasjr/Repository.JsonRpc/master/Build/NuGet/Package.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/skthomasjr/Repository.JsonRpc/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/skthomasjr/Repository.NET-JsonRpc</projectUrl>
