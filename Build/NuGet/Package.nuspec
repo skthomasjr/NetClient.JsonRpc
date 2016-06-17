@@ -10,7 +10,7 @@
     <licenseUrl>https://raw.githubusercontent.com/skthomasjr/Repository.JsonRpc/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/skthomasjr/Repository.NET-JsonRpc</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-	<dependencies>
+    <dependencies>
       <dependency id="Microsoft.Net.Http" version="1.0.0" />
       <dependency id="Newtonsoft.Json" version="1.0.0" />
       <dependency id="Repository.NET" version="1.0.0" />
