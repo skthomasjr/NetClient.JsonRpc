@@ -5,7 +5,7 @@
     <version>0.0.0</version>
     <authors>Scott Keith Thomas, Jr.</authors>
     <description>A NetClient implementation supporting JSON-RPC APIs.</description>
-    <tags>async asynchronous generic http net client api service rpc json-rpc rpc jsonrpc</tags>
+    <tags>async asynchronous generic http net client api service json-rpc rpc jsonrpc</tags>
     <iconUrl>https://raw.githubusercontent.com/skthomasjr/NetClient.JsonRpc/master/Build/NuGet/Package.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/skthomasjr/NetClient.JsonRpc/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/skthomasjr/NetClient.JsonRpc</projectUrl>
