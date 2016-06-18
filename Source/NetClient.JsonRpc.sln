@@ -3,14 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Repository.JsonRpc", "Repository.JsonRpc\Repository.JsonRpc.shproj", "{909E80CB-5047-4A70-9622-2B0D53CF342B}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NetClient.JsonRpc", "NetClient.JsonRpc\NetClient.JsonRpc.shproj", "{909E80CB-5047-4A70-9622-2B0D53CF342B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.JsonRpc.Net461", "Repository.JsonRpc.Net461\Repository.JsonRpc.Net461.csproj", "{B80BBF53-B7E3-43AD-A2B7-D244282EE475}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetClient.JsonRpc.Net461", "NetClient.JsonRpc.Net461\NetClient.JsonRpc.Net461.csproj", "{B80BBF53-B7E3-43AD-A2B7-D244282EE475}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		Repository.JsonRpc\Repository.JsonRpc.projitems*{b80bbf53-b7e3-43ad-a2b7-d244282ee475}*SharedItemsImports = 4
-		Repository.JsonRpc\Repository.JsonRpc.projitems*{909e80cb-5047-4a70-9622-2b0d53cf342b}*SharedItemsImports = 13
+		NetClient.JsonRpc\NetClient.JsonRpc.projitems*{b80bbf53-b7e3-43ad-a2b7-d244282ee475}*SharedItemsImports = 4
+		NetClient.JsonRpc\NetClient.JsonRpc.projitems*{909e80cb-5047-4a70-9622-2b0d53cf342b}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

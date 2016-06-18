@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Repository.NET-JsonRpc</id>
+    <id>NetClient.JsonRpc</id>
     <version>0.0.0</version>
     <authors>Scott Keith Thomas, Jr.</authors>
-    <description>A Respository.NET implementation supporting JSON-RPC.</description>
-    <tags>async asynchronous generic json json-rpc jsonrpc repository rpc</tags>
-    <iconUrl>https://raw.githubusercontent.com/skthomasjr/Repository.JsonRpc/master/Build/NuGet/Package.png</iconUrl>
-    <licenseUrl>https://raw.githubusercontent.com/skthomasjr/Repository.JsonRpc/master/LICENSE.md</licenseUrl>
-    <projectUrl>https://github.com/skthomasjr/Repository.NET-JsonRpc</projectUrl>
+    <description>A NetClient implementation supporting JSON-RPC APIs.</description>
+    <tags>async asynchronous generic http net client api service rpc json-rpc rpc jsonrpc</tags>
+    <iconUrl>https://raw.githubusercontent.com/skthomasjr/NetClient.JsonRpc/master/Build/NuGet/Package.png</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/skthomasjr/NetClient.JsonRpc/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/skthomasjr/NetClient.JsonRpc</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
       <dependency id="Microsoft.Net.Http" version="1.0.0" />
       <dependency id="Newtonsoft.Json" version="1.0.0" />
-      <dependency id="Repository.NET" version="1.0.0" />
+      <dependency id="NetClient" version="1.0.0" />
     </dependencies>
   </metadata>
 </package>
