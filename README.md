@@ -1,4 +1,4 @@
-# Repository.NET - JSON-RPC
+# NetClient.JsonRpc
 
 [![Join the chat at https://gitter.im/skthomasjr/Repository.JsonRpc](https://badges.gitter.im/skthomasjr/Repository.JsonRpc.svg)](https://gitter.im/skthomasjr/Repository.JsonRpc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build](https://ci.appveyor.com/api/projects/status/2tcvbn3s9isw2baa?svg=true)](https://ci.appveyor.com/project/skthomasjr/repository-jsonrpc)
