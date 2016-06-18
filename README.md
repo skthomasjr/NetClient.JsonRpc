@@ -1,6 +1,6 @@
 # NetClient.JsonRpc [ alpha ]
 
-[![Build](https://ci.appveyor.com/api/projects/status/2tcvbn3s9isw2baa?svg=true)](https://ci.appveyor.com/project/skthomasjr/repository-jsonrpc)
+[![Build](https://ci.appveyor.com/api/projects/status/gr695fabxsncs4s9?svg=true)](https://ci.appveyor.com/project/skthomasjr/netclient-jsonrpc)
 [![Release](https://img.shields.io/github/release/skthomasjr/NetClient.JsonRpc.svg?maxAge=2592000)](https://github.com/skthomasjr/NetClient.JsonRpc/releases)
 [![NuGet](https://img.shields.io/nuget/v/NetClient.JsonRpc.svg)](https://www.nuget.org/packages/NetClient.JsonRpc)
 [![License](https://img.shields.io/github/license/skthomasjr/NetClient.JsonRpc.svg?maxAge=2592000)](LICENSE.md)
