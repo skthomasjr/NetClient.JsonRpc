@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("NetClient.JsonRpc")]
-[assembly: AssemblyDescription("A Respository.NET implementation supporting JSON-RPC.")]
+[assembly: AssemblyDescription("A NetClient implementation supporting JSON-RPC APIs.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Scott Keith Thomas, Jr.")]
 [assembly: AssemblyProduct("NetClient.JsonRpc")]

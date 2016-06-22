@@ -9,6 +9,12 @@
     <Import_RootNamespace>NetClient.JsonRpc</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)BaseUriAttribute.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Properties\AssemblyInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CommandAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)JsonRpcClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)JsonRpcQueryTranslator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Command.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SerializerSettingsAttribute.cs" />
   </ItemGroup>
 </Project>
