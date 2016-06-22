@@ -29,7 +29,7 @@ namespace NetClient.JsonRpc
         {
             Client = client;
             Property = property;
-            Provider = new JsonRpcQueryProvider<T>(this);
+            /////////////////////////////////////////////////////////////////Provider = new JsonRpcQueryProvider<T>(this);
             OnError = onError;
             Expression = expression ?? Expression.Constant(this);
         }
@@ -61,7 +61,7 @@ namespace NetClient.JsonRpc
         ///     Gets or sets the route template.
         /// </summary>
         /// <value>The route template.</value>
-        public string Command
+        public string Name
         {
             get
             {
